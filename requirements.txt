@@ -1,0 +1,15 @@
+streamlit
+fastapi
+uvicorn
+python-multipart
+PyPDF2
+pdfplumber
+python-docx
+spacy
+scikit-learn
+pandas
+matplotlib
+plotly
+transformers
+torch
+sentence-transformers
